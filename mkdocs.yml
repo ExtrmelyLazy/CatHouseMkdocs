@@ -24,6 +24,8 @@ nav:
   - 首页: index.md
   - 关于猫窝: #我真服了，怎么这里还要加冒号
     - 历史: about/history.md
+  - 帮助:
+    - MkDocs使用指南: help/build-mkdocs.md
 
 markdown_extensions:
   - admonition
