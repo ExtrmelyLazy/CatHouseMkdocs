@@ -28,4 +28,8 @@ nav:
 markdown_extensions:
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: admonition
+          class: admonition
+          format: !!python/name:pymdownx.superfences.fence_div_format
