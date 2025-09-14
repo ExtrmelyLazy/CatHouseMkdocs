@@ -24,3 +24,8 @@ nav:
   - 首页: index.md
   - 关于猫窝: #我真服了，怎么这里还要加冒号
     - 历史: about/history.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
