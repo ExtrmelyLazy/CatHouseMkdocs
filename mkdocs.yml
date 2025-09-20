@@ -22,8 +22,9 @@ theme:
 
 nav:
   - 首页: index.md
-  - 关于猫窝: #我真服了，怎么这里还要加冒号
+  - 关于猫窝:
     - 历史: about/history.md
+    - 猫窝群规: about/rules.md
   - 帮助:
     - MkDocs使用指南: help/built-mkdocs.md
   - 猫窝维基百科:
